@@ -7,4 +7,4 @@ En el presente caso practico se muestra el manejo de Power BI, en el cual se man
 
 # Por ultimo las graficas de abajo son las de por region y ciudad, esto nos permite analizar y encontrar cual region es en la que menos se vende y el porque a travez de un analisis mas profundo de dicha region para que se pueda obtener mas margen de ganancias.
 
-##Por ultimo pero no menos importante es decir que se agrego un boton que dirige a una pagina oculta la cual se puede obtener informacion del cliente.
+## Por ultimo pero no menos importante es decir que se agrego un boton que dirige a una pagina oculta la cual se puede obtener informacion del cliente.
